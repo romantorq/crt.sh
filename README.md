@@ -7,7 +7,7 @@ This project aims at helping you to interact with [crt.sh](https://crt.sh) websi
 Git clone the repo. 
 
 ```bash
-git clone https://github.com/PaulSec/crt.sh
+git clone https://github.com/romantorq/crt.sh
 ```
 
 Install the dependencies.
